@@ -1,8 +1,12 @@
 # MASTER TRACKER - Manage your todos efficiently!
 
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Welcome to your solution for efficient task management. This repository contains a simple yet powerful user-friendly Todo List React application.
 
 ## Features
+
 1. **Performance**: Master Tracker is set up using React.js to ensure optimal performance.
 
 2. **Add Todo items**: Easily add new tasks to your list, keeping your daily activities organized and structured.
@@ -17,13 +21,14 @@ Welcome to your solution for efficient task management. This repository contains
 
 7. **Responsive Design**: Master Tracker is designed to work seamlessly on any device, so you can manage your tasks on the go with ease.
 
-8. **Category Feature**: A feature that allows you to categorize your Todo list items, helping you further organize and prioritize your tasks. Each todo can be viewed in their respective category and the categories can be added as well as  deleted.
+8. **Category Feature**: A feature that allows you to categorize your Todo list items, helping you further organize and prioritize your tasks. Each todo can be viewed in their respective category and the categories can be added as well as deleted.
 
 9. **Form validation and error handling**: Precise form validation and error management has been implemented for data accuracy and a user-friendly experience.
 
 ## Getting Started
 
 ### Prerequisites
+
 Before you begin, ensure you have met the following requirements:
 
 1. **Node.js installed**
@@ -34,17 +39,18 @@ Then follow these steps to set up and run the application on your local machine:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/AhmedLukman/master-tracker.git
-    ```
+   ```
 2. **Naviagte to project directory and install dependencies**:
    ```bash
    npm install
    ```
 3. **Run the application**:
-    ```bash
+   ```bash
    npm start
    ```
-   
+
 ## Technologies used
+
 - React JS
 - TypeScript
 - Tailwind CSS
@@ -52,10 +58,7 @@ Then follow these steps to set up and run the application on your local machine:
 - CSS
 
 ## Contributing
+
 Contributions are welcome. If you have ideas for improvements or new features, please open an issue or submit a pull request.
 
 Thank you for trying out my todo app!
-
-
-
-
