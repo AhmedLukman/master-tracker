@@ -3,14 +3,24 @@
   "name": "Master Tracker | Manage todos efficiently",
   "icons": [
     {
+      "src": "./assets/icons/todo-icon-64.png",
+      "type": "image/png",
+      "sizes": "39x36"
+    },
+    {
+      "src": "./assets/icons/todo-icon-180.png",
+      "type": "image/png",
+      "sizes": "108x99"
+    },
+    {
       "src": "./assets/icons/todo-icon-192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "114x106"
     },
     {
       "src": "./assets/icons/todo-icon-512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "304x280"
     }
   ],
   "start_url": ".",
